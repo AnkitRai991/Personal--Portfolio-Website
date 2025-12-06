@@ -35,11 +35,5 @@ cd Personal--Portfolio-Website
 ├── script.js         # Optional JS (e.g. for interactivity)
 ├── images/           # Folder containing project images (work1.jpg, work2.png, etc.)
 └── README.md         # This documentation file
-
-
-# 2. Navigate into project folder
-cd Personal--Portfolio-Website
-
-# 3. Open index.html in your browser
-#    (or use a local server if you prefer)
+    (or use a local server if you prefer)
 
