@@ -28,5 +28,18 @@ git clone https://github.com/AnkitRai991/Personal--Portfolio-Website.git
 cd Personal--Portfolio-Website
 
 # 3. Open index.html in your browser
+    (or use a local server if you prefer)
+
+├── index.html        # Main HTML file
+├── style.css         # Stylesheet for layout/design
+├── script.js         # Optional JS (e.g. for interactivity)
+├── images/           # Folder containing project images (work1.jpg, work2.png, etc.)
+└── README.md         # This documentation file
+
+
+# 2. Navigate into project folder
+cd Personal--Portfolio-Website
+
+# 3. Open index.html in your browser
 #    (or use a local server if you prefer)
 
